@@ -1,0 +1,117 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/admin/hsg/hexo/XcodeTool/SPMCmdLineTool/Sources/SPMCmdLineTool/Panagram/ConsoleIO.swift",
+      "line": 12,
+      "symbol": "OutputType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/hexo/XcodeTool/SPMCmdLineTool/Sources/SPMCmdLineTool/Panagram/ConsoleIO.swift",
+      "line": 13,
+      "symbol": "OutputType.Error",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/hexo/XcodeTool/SPMCmdLineTool/Sources/SPMCmdLineTool/Panagram/ConsoleIO.swift",
+      "line": 14,
+      "symbol": "OutputType.Standard",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/hexo/XcodeTool/SPMCmdLineTool/Sources/SPMCmdLineTool/Panagram/ConsoleIO.swift",
+      "line": 17,
+      "symbol": "OptionType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/hexo/XcodeTool/SPMCmdLineTool/Sources/SPMCmdLineTool/Panagram/ConsoleIO.swift",
+      "line": 18,
+      "symbol": "OptionType.Palindrome",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/hexo/XcodeTool/SPMCmdLineTool/Sources/SPMCmdLineTool/Panagram/ConsoleIO.swift",
+      "line": 19,
+      "symbol": "OptionType.Anagram",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/hexo/XcodeTool/SPMCmdLineTool/Sources/SPMCmdLineTool/Panagram/ConsoleIO.swift",
+      "line": 20,
+      "symbol": "OptionType.Help",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/hexo/XcodeTool/SPMCmdLineTool/Sources/SPMCmdLineTool/Panagram/ConsoleIO.swift",
+      "line": 21,
+      "symbol": "OptionType.Quit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/hexo/XcodeTool/SPMCmdLineTool/Sources/SPMCmdLineTool/Panagram/ConsoleIO.swift",
+      "line": 22,
+      "symbol": "OptionType.Unknown",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/hexo/XcodeTool/SPMCmdLineTool/Sources/SPMCmdLineTool/Panagram/ConsoleIO.swift",
+      "line": 24,
+      "symbol": "OptionType.init(value:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/hexo/XcodeTool/SPMCmdLineTool/Sources/SPMCmdLineTool/Panagram/ConsoleIO.swift",
+      "line": 68,
+      "symbol": "ConsoleIO.printUsage()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/hexo/XcodeTool/SPMCmdLineTool/Sources/SPMCmdLineTool/Panagram/Panagram.swift",
+      "line": 13,
+      "symbol": "Panagram.consoleIO",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/hexo/XcodeTool/SPMCmdLineTool/Sources/SPMCmdLineTool/Panagram/Panagram.swift",
+      "line": 14,
+      "symbol": "Panagram.staticMode()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/hexo/XcodeTool/SPMCmdLineTool/Sources/SPMCmdLineTool/Panagram/Panagram.swift",
+      "line": 72,
+      "symbol": "Panagram.getOption(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/hexo/XcodeTool/SPMCmdLineTool/Sources/SPMCmdLineTool/Panagram/Panagram.swift",
+      "line": 75,
+      "symbol": "Panagram.interactiveMode()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/hexo/XcodeTool/SPMCmdLineTool/Sources/main.swift",
+      "line": 12,
+      "symbol": "jazzyTool",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/admin/hsg/hexo/XcodeTool/SPMCmdLineTool"
+}
