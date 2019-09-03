@@ -3,11 +3,11 @@
 <plist version="1.0">
   <dict>
     <key>CFBundleIdentifier</key>
-      <string>com.jazzy.spmcmdlinetool</string>
+      <string>com.jazzy.panagrams</string>
     <key>CFBundleName</key>
-      <string>SPMCmdLineTool</string>
+      <string>Panagrams</string>
     <key>DocSetPlatformFamily</key>
-      <string>spmcmdlinetool</string>
+      <string>panagrams</string>
     <key>isDashDocset</key>
       <true/>
     <key>dashIndexFilePath</key>
